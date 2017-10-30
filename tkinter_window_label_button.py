@@ -1,3 +1,5 @@
+# Windows, Labels, Buttons
+
 import sys
 from tkinter import *
 
@@ -18,4 +20,6 @@ miboton2=Button(text='Cancelar').grid(row=3,column=10)
 # place(x=225,y=225) en lugar de grid
 #.pack() 
 # puede cambiarse .pack() por mietiquet.pack() en otra linea
+
+migui.mainloop() # solo para windows, mac, pycharm
 
