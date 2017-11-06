@@ -1,7 +1,6 @@
 import sys
 from tkinter import *
 
-
 root = Tk()
 frame1 = Frame(root)
 frame2 = Frame(root)
